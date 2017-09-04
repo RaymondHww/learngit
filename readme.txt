@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple test in last line.
 add merge.
 Fast forward merge.
+add merge test.
